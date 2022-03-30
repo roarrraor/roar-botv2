@@ -1,12 +1,12 @@
 {
-"autocomposing": true,
+"autocomposing": false,
 "autorecording": false,
 "bugc": false,
 "antitrol": false,
 "antical": false,
 "antitags": false,
 "readG": false,
-"readP": true,
+"readP": false,
 "regisinfo": false,
 "autoregis": false,
 "multi": true,
@@ -16,6 +16,6 @@
 "database": true,
 "premium": true,
 "infoerror": false,
-"autobackup": false
+"autobackup": true,
 }
 
