@@ -8,14 +8,14 @@
 "readG": false,
 "readP": false,
 "regisinfo": false,
-"autoregis": false,
+"autoregis": true,
 "multi": true,
 "mainmenu": false,
 "banChats": false,
 "autorespon": false,
-"database": false,
-"premium": false,
+"database": true,
+"premium": true,
 "infoerror": false,
-"autobackup": false
+"autobackup": true
 }
 
