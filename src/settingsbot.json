@@ -8,7 +8,7 @@
 "readG": false,
 "readP": false,
 "regisinfo": false,
-"autoregis": true,
+"autoregis": false,
 "multi": true,
 "mainmenu": false,
 "banChats": false,
