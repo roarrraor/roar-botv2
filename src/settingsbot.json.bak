@@ -16,6 +16,6 @@
 "database": true,
 "premium": true,
 "infoerror": false,
-"autobackup": true,
+"autobackup": false,
 }
 
